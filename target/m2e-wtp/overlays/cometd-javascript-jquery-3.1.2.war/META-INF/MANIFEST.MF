@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-Description: The CometD project is a scalable web messaging bus
+  that uses WebSocketand HTTP AJAX push technology patterns known as "
+ Comet" techniques
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0
+Bundle-SymbolicName: cometd-javascript-jquery
+Built-By: simon
+Bnd-LastModified: 1496931918708
+Bundle-ManifestVersion: 2
+Bundle-DocURL: http://docs.cometd.org
+Bundle-Vendor: The CometD Project
+Bundle-ContactAddress: http://cometd.org/cometd-javascript/cometd-java
+ script-jquery
+Tool: Bnd-3.3.0.201609221906
+Bundle-Name: CometD :: JavaScript :: jQuery
+Bundle-Version: 3.1.2
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_131
+
